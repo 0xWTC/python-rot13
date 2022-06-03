@@ -11,3 +11,9 @@
     * The cipher is reversible.
     * The cipher is commonly used to encode text to make it readable by programs that don't understand the language of the author.
 
+## Sample output
+
+```
+**ROT13:** Gur zbfg pbzzba pevgvpvfz bs nofheqvfz vf gb nethr gung yvsr va snpg unf zrnavat.
+**Reversed:** The most common criticism of absurdism is to argue that life in fact has meaning.
+```
