@@ -9,7 +9,8 @@
 
 * ROT13 is a simple letter substitution cipher that replaces a letter with the letter 13 letters after it in the alphabet.
 * The cipher is reversible.
-* ROT13 is used in online forums as a means of hiding spoilers, punchlines, puzzle solutions, and offensive materials from the casual glance. ROT13 has inspired a variety of letter and word games online, and is frequently mentioned in newsgroup conversations.
+* ROT13 is used in online forums as a means of hiding spoilers, punchlines, puzzle solutions, and offensive materials from the casual glance.
+* ROT13 has inspired a variety of letter and word games online, and is frequently mentioned in newsgroup conversations.
 
 ## Sample output
 
